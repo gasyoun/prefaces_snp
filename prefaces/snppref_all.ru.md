@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `snpprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `snpprefNN.ru.md`. Index: [README.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -218,3 +220,5 @@ WIRM — The Wealth of India (см. Meulenbeld, стр. 645). Добавить: 
 Yc. — Harṣakīrti's Yogacintāmaṇi, ed. Dattarām Caube, Bombay 1954.
 
 См. также стр. 457-465 для дополнений и исправлений.
+
+_Dr. Mārcis Gasūns_

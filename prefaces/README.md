@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # SNP — Front matter (prefaces)
 
 OCR + translation of the **front matter** of the Cologne dictionary **SNP** — G. J. Meulenbeld, *Sanskrit names of plants and their botanical equivalents* (Appendix Four to *The Mādhavanidāna and its Chief Commentary*, Leiden: E. J. Brill, 1974), together with R. P. Das's *Additions* (in *Das Wissen von der Lebensspanne der Bäume = Surapāla's Vṛkṣāyurveda*, Stuttgart: Franz Steiner, 1988).
@@ -27,8 +29,8 @@ Because the source language is English, there is **no `.en.md`** layer — the b
 
 | Language | File |
 |---|---|
-| English (source) | [snppref_all.en.md](snppref_all.en.md) |
-| Russian | [snppref_all.ru.md](snppref_all.ru.md) |
+| English (source) | [snppref_all.en.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref_all.en.md) |
+| Russian | [snppref_all.ru.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref_all.ru.md) |
 
 Build with: `DICT=snp python build_combined.py`
 
@@ -36,13 +38,13 @@ Build with: `DICT=snp python build_combined.py`
 
 | NN | Section | Vol. | Source scan | English | Russian |
 |---|---|---|---|---|---|
-| 01 | Mādhavanidāna Title Page | 1 | [snp_001.jpg](scans/snp_001.jpg) | [snppref01.md](snppref01.md) | [snppref01.ru.md](snppref01.ru.md) |
-| 02 | Partial contents (p. VI) | 1 | [snp_002.jpg](scans/snp_002.jpg) | [snppref02.md](snppref02.md) | [snppref02.ru.md](snppref02.ru.md) |
-| 03 | Appendix 4 Introduction, 1 (p. 520) | 1 | [snp_003.jpg](scans/snp_003.jpg) | [snppref03.md](snppref03.md) | [snppref03.ru.md](snppref03.ru.md) |
-| 04 | Introduction, 2 (p. 521) | 1 | [snp_004.jpg](scans/snp_004.jpg) | [snppref04.md](snppref04.md) | [snppref04.ru.md](snppref04.ru.md) |
-| 05 | Preface to additions, 1 (p. 425) | 2 | [snp-ad_01.jpg](scans/snp-ad_01.jpg) | [snppref05.md](snppref05.md) | [snppref05.ru.md](snppref05.ru.md) |
-| 06 | Preface to additions, 2 (p. 426) | 2 | [snp-ad_02.jpg](scans/snp-ad_02.jpg) | [snppref06.md](snppref06.md) | [snppref06.ru.md](snppref06.ru.md) |
-| 07 | Preface to additions, 3 (p. 427) | 2 | [snp-ad_03.jpg](scans/snp-ad_03.jpg) | [snppref07.md](snppref07.md) | [snppref07.ru.md](snppref07.ru.md) |
+| 01 | Mādhavanidāna Title Page | 1 | [snp_001.jpg](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/scans/snp_001.jpg) | [snppref01.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref01.md) | [snppref01.ru.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref01.ru.md) |
+| 02 | Partial contents (p. VI) | 1 | [snp_002.jpg](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/scans/snp_002.jpg) | [snppref02.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref02.md) | [snppref02.ru.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref02.ru.md) |
+| 03 | Appendix 4 Introduction, 1 (p. 520) | 1 | [snp_003.jpg](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/scans/snp_003.jpg) | [snppref03.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref03.md) | [snppref03.ru.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref03.ru.md) |
+| 04 | Introduction, 2 (p. 521) | 1 | [snp_004.jpg](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/scans/snp_004.jpg) | [snppref04.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref04.md) | [snppref04.ru.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref04.ru.md) |
+| 05 | Preface to additions, 1 (p. 425) | 2 | [snp-ad_01.jpg](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/scans/snp-ad_01.jpg) | [snppref05.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref05.md) | [snppref05.ru.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref05.ru.md) |
+| 06 | Preface to additions, 2 (p. 426) | 2 | [snp-ad_02.jpg](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/scans/snp-ad_02.jpg) | [snppref06.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref06.md) | [snppref06.ru.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref06.ru.md) |
+| 07 | Preface to additions, 3 (p. 427) | 2 | [snp-ad_03.jpg](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/scans/snp-ad_03.jpg) | [snppref07.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref07.md) | [snppref07.ru.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/snppref07.ru.md) |
 
 ## Notes
 
@@ -74,3 +76,5 @@ Produced by the `/cologne-preface-ocr` skill (synchronous, single-thread; **no s
 5. **No GitHub repo** for SNP — output parked in `GitHub/prefaces_snp/`, uncommitted, pending a home-repo decision (see above).
 
 </details>
+
+_Dr. Mārcis Gasūns_

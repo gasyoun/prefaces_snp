@@ -1,6 +1,8 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English, source language)
 
-Per-page files: `snpprefNN.md`. Index: [README.md](README.md).
+Per-page files: `snpprefNN.md`. Index: [README.md](https://github.com/gasyoun/prefaces_snp/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -218,3 +220,5 @@ WIRM — The Wealth of India (s. Meulenbeld, p. 645). Add: Vol. 4, 1956; Vol. 5,
 Yc. — Harṣakīrti's Yogacintāmaṇi, ed. Dattarām Caube, Bombay 1954.
 
 S. also pp. 457-465 for additions and corrections.
+
+_Dr. Mārcis Gasūns_

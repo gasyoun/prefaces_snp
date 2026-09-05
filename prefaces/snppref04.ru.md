@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp_004.jpg
 source_page: Introduction, 2
@@ -32,3 +34,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 &nbsp;&nbsp;&nbsp;&nbsp;b) KB 1, p. 528-529 : COMMIPHORA AGALLOCHA ENGL. = BALSAMODENDRUM ROXBURGHII ARN. = AMYRIS COMMIPHORA ROXB.; Index Kewensis расходится с Chopra и KB и различает :
 &nbsp;&nbsp;&nbsp;&nbsp;a) COMMIPHORA MUKUL ENGL. = C. ROXBURGHII ENGL. = BALSAMODENDRUM ROXBURGHII STOCKS = B. WIGHTII ARN.;
 &nbsp;&nbsp;&nbsp;&nbsp;b) COMMIPHORA ROXBURGHII ALSTON = C. AGALLOCHA ENGL. = BALSAMODENDRUM AGALLOCHA WIGHT ET ARN. = B. COMMI-
+
+_Dr. Mārcis Gasūns_

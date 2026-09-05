@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp-ad_02.jpg
 source_page: Preface to additions, 2
@@ -35,3 +37,5 @@ Kai.Nigh. — Kaiyadeva-nighaṇṭuḥ (Pathyāpathya-vibodhakaḥ), edited and
 Nś. — Āc. Hemacandrasūri's Nighaṇṭuśeṣa with Vācanācārya Śrī Śrīvallabhagaṇi's commentary, ed. by Munirājā Śrī Puṇyavijayaji, Lalbhai Dalpatbhai Series No. 18, Ahmedabad 1968.
 
 Raison — La Hārītasaṃhitā, texte médical sanskrit, avec un in-
+
+_Dr. Mārcis Gasūns_

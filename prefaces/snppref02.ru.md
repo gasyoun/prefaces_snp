@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp_002.jpg
 source_page: Partial contents
@@ -34,3 +36,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 2. Указатель ботанических названий растений … 669
 3. Указатель зоологических названий животных … 689
 4. Общий указатель … 691
+
+_Dr. Mārcis Gasūns_

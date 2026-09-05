@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp-ad_03.jpg
 source_page: Preface to additions, 3
@@ -34,3 +36,5 @@ WIRM — The Wealth of India (см. Meulenbeld, стр. 645). Добавить: 
 Yc. — Harṣakīrti's Yogacintāmaṇi, ed. Dattarām Caube, Bombay 1954.
 
 См. также стр. 457-465 для дополнений и исправлений.
+
+_Dr. Mārcis Gasūns_

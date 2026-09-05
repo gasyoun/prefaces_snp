@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp_001.jpg
 source_page: Mādhavanidāna Title Page
@@ -26,3 +28,5 @@ LEIDEN
 E. J. BRILL
 
 1974
+
+_Dr. Mārcis Gasūns_

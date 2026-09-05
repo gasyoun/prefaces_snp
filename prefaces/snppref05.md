@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp-ad_01.jpg
 source_page: Preface to additions, 1
@@ -28,3 +30,5 @@ ASL — Ancient Science of Life.
 AVI — P.V. Sharma, Āyurved kā vaijñānik itihās, Jaikrishnadas Ayurveda Series No. 1, Varanasi 1975.
 
 Bheṣajakalpa — Bheṣajakalpa, ed. by V.S. Venkatasubramania Sastri and C. Raja Rajeswara Sarma, C.C.R.I.M.H./Pub. 32, New Delhi 1977.
+
+_Dr. Mārcis Gasūns_

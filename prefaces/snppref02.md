@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp_002.jpg
 source_page: Partial contents
@@ -32,3 +34,5 @@ Indices :
 2. Index of botanical names of plants … 669
 3. Index of zoological names of animals … 689
 4. General index … 691
+
+_Dr. Mārcis Gasūns_

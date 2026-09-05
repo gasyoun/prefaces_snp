@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp_003.jpg
 source_page: Appendix 4 Introduction, 1
@@ -18,3 +20,5 @@ Except in a rather restricted number of cases the botanical identification of pl
 The botanical names in this glossary have been checked, without any exception, by help of the Index Kewensis, the only work containing all the names of phanerogamous plants, and the nomenclature and synonymy have been set up in agreement with it. The name given by the Index Kewensis as the valid one has been put first, followed by the synonyms. There are, however, some exceptions to this general scheme. Deviations from the Index Kewensis occur whenever prescribed by the International Code (ed. 1972) in its list of nomina conservanda; names of species found in that list have been adopted. These changes are indicated by a reference to the International Code.
 
 Names put between square brackets are not found in the Index; in the majority of cases this means that they are invalid or erroneous, but there are exceptions. Invalid names are usually those between square brackets when followed by a single author's name after the Latin name. When two author's names occur, the first one being put
+
+_Dr. Mārcis Gasūns_

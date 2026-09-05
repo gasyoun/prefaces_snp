@@ -1,3 +1,5 @@
+_Created: 23-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: snp_004.jpg
 source_page: Introduction, 2
@@ -30,3 +32,5 @@ Names of varieties have been put between square brackets too when not recorded i
 &nbsp;&nbsp;&nbsp;&nbsp;b) KB 1, p. 528-529 : COMMIPHORA AGALLOCHA ENGL. = BALSAMODENDRUM ROXBURGHII ARN. = AMYRIS COMMIPHORA ROXB.; the Index Kewensis disagrees with Chopra and KB and distinguishes :
 &nbsp;&nbsp;&nbsp;&nbsp;a) COMMIPHORA MUKUL ENGL. = C. ROXBURGHII ENGL. = BALSAMODENDRUM ROXBURGHII STOCKS = B. WIGHTII ARN.;
 &nbsp;&nbsp;&nbsp;&nbsp;b) COMMIPHORA ROXBURGHII ALSTON = C. AGALLOCHA ENGL. = BALSAMODENDRUM AGALLOCHA WIGHT ET ARN. = B. COMMI-
+
+_Dr. Mārcis Gasūns_
