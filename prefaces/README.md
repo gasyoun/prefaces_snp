@@ -48,7 +48,7 @@ Build with: `DICT=snp python build_combined.py`
 
 ## Notes
 
-- **Source language is English** — confirmed from [`csl-orig/v02/snp/snpheader.xml`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/snp/snpheader.xml) (`titleStmt` `xml:lang="en-Latn"`, `langUsage` = English + Sanskrit) and from the scans themselves.
+- **Source language is English** — confirmed from [`csl-orig/v02/snp/snpheader.xml`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/snp/snpheader.xml) (`titleStmt` `xml:lang="en-Latn"`, `langUsage` = English + Sanskrit) and from the scans themselves.
 - **Two source works / two page-number ranges.** Vol. 1 pages (520-521) are from Meulenbeld 1974; vol. 2 pages (425-427) are from Das 1988. The contents page is paginated VI.
 - **Sanskrit** stays verbatim in IAST (ā ī ū ṛ ñ ṭ ḍ ṇ ś ṣ ḥ ṃ …); **Latin botanical binomials** (COMMIPHORA, BALSAMODENDRUM, CARPOPOGON PRURIENS, etc.) kept as printed; **bibliographic titles** (German *Das Wissen von der Lebensspanne der Bäume*; French *La Hārītasaṃhitā … nomenclature âyurvédique*) left in their original language/script.
 - The **title page** carries a printer's device (*TUTA SUB AEGIDE PALLAS · EJB ·*) and a library stamp (*Indologisches Seminar der Universität Bonn*); both are recorded as bracketed notes.
